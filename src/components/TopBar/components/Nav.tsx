@@ -18,12 +18,7 @@ const Nav: React.FC<NavProp> = ({showMenu}) => {
       <StyledAbsoluteLink href="#/staking/">
         Pool
       </StyledAbsoluteLink>
-      <StyledAbsoluteLink href="#/market/">
-        MarketPlace
-      </StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://governance.bscex.org">
-        Governance
-      </StyledAbsoluteLink>
+    
     </StyledNav>
   )
 }
